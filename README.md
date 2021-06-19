@@ -1,4 +1,5 @@
-# House-Manager
+# Official SneakyHub Discord Bot
+This bot manages our web panel, economy, user data, auto deletion, creation and suspension of all servers we have deployed. As well as a shop, minigames and much more
 
 # Features
 
@@ -33,3 +34,4 @@
 3. Economy Rewards ( Daily rewards and active chat drops ) allowing users to click an emoji to claim a random amount of sneaky shards.
 4. Economy Minigames ( Slots, and more )
 5. Economy Earn ( work, heist, beg, rob and more )
+6. Shop ( Allow users to buy things in a store, either badges, cosmetics, items and more )
